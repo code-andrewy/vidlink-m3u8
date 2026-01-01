@@ -20,7 +20,7 @@ A high-performance REST API for fetching streaming URLs from Vidlink for movies 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aryaniiil/vidapi.git
+git clone https://github.com/aryaniiil/vidlink-m3u8.git
 cd vidapi
 ```
 
